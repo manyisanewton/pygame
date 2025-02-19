@@ -1,10 +1,9 @@
 # 🐍 Snake Game with Pygame
 
-A fun Snake Game built using **Python**, **Pygame**, and **OpenCV** with sound effects and video background.
+A fun Snake Game built using **Python** and **Pygame** with sound effects and music background play.
 
 ## 🎮 Features
 - Classic snake gameplay 🐍
-- Video background support 🎥
 - Sound effects for eating and game over 🔊
 - Background music 🎵
 - Dynamic snake speed adjustment 🚀
@@ -105,7 +104,7 @@ This project is open-source and available under the **MIT License**.
 
 ## 👨‍💻 Author
 **Newton Manyisa**  
-GitHub: [@your-username](https://github.com/manyisanewton)  
+GitHub: [@manyisanewton](https://github.com/manyisanewton)  
 
 ---
 
